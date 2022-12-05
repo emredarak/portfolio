@@ -6,3 +6,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
+<br>
+<h3 align="center">Head Of Backend Development | Game Development Specialist</h3>
+<p align="center">📫 How to reach me **<b>emredarakiv@gmail.com</b>**</p> 
