@@ -9,5 +9,5 @@
 <br>
 <img align= "center" alt= "Coding" width="450" src="https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/">
 <br>
-<h3 align="center">Head Of Backend Development | Game Development Specialist</h3>
+<h3 align="center">🎮🕹️Game Programmer  / 🔙🔚Programmer 🕹️🎮</h3>
 <p align="center">📫 How to reach me **<b>emredarakiv@gmail.com</b>**</p> 
