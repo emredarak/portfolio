@@ -74,7 +74,7 @@
 
 ###
 
-[![Hit and Boom](https://github.com/emredarak/portfolio/raw/main/images/hit-and-boom.png)]([http://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=bRMB-WTsi8E))
+[![Hit and Boom](https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png)]([http://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=bRMB-WTsi8E))
 
 ###
 
