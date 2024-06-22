@@ -78,17 +78,23 @@
   <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="300" height="200">Hit and Boom</>
 </a>
 
-###
+### 
 
-<p align="left">https://www.youtube.com/watch?v=X0u331-OZpU</p>
-
-###
-
-<p align="left">https://www.youtube.com/watch?v=hzOuM7U6cU4</p>
+ <a href="https://www.youtube.com/watch?v=X0u331-OZpU" target="_blank">
+  <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="300" height="200">Hit and Boom</>
+</a>
 
 ###
+ 
+ <a href="https://www.youtube.com/watch?v=hzOuM7U6cU4" target="_blank">
+  <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="300" height="200">Hit and Boom</>
+</a>
 
-<p align="left">https://www.youtube.com/watch?v=qpziACv0Nsk</p>
+###
+ 
+ <a href="https://www.youtube.com/watch?v=qpziACv0Nsk" target="_blank">
+  <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="300" height="200">Hit and Boom</>
+</a>
 
 ###
 
