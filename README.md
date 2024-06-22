@@ -75,7 +75,7 @@
 ###
  
  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="200" height="200">"Hit and Boom"</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="300" height="200">Hit and Boom</>
 </a>
 
 ###
