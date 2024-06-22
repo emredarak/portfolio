@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">PROJECTS</p>
+<p align="left"><b>PROJECTS</b></p>
 
 ###
  
