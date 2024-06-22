@@ -74,7 +74,7 @@
 
 ###
 
-<p align="left">https://www.youtube.com/watch?v=bRMB-WTsi8E</p>
+[![Video Açıklaması](http://img.youtube.com/vi/VIDEO_ID/0.jpg)]([http://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=bRMB-WTsi8E)) 
 
 ###
 
