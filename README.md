@@ -68,11 +68,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emredarak/emredarak/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/emredarak/emredarak/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left"><b>PROJECTS</b></p>
+<p align="center"><b>PROJECTS</b></p>
 
 ###
 
