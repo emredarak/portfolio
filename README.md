@@ -73,8 +73,10 @@
 <p align="left">PROJECTS</p>
 
 ###
-
-[![Hit and Boom](https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png)]([http://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=bRMB-WTsi8E))
+ 
+ <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <img src="https://github.com/emredarak/portfolio/raw/main/projects/hitandboom/hit-and-boom.png" alt="Hit and Boom" width="500" height="300" />
+</a>
 
 ###
 
