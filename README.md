@@ -78,9 +78,9 @@
 
 ###
 
-  <a href="https://youtu.be/ObIRCUSYnzY" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/toonblast.png" width="140" height="140">Toon Blast Clone</>
-</a>
+## Toon Blast Clone
+
+[![Toon Blast Clone](https://github.com/emredarak/portfolio/raw/main/toonblast.png)](https://youtu.be/ObIRCUSYnzY)
 
 ###
 
