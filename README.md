@@ -14,6 +14,8 @@
 
 ###
 
+<p align="center"><b>The technologies I have used in detail so far</b></p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
