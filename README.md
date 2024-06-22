@@ -80,66 +80,88 @@
 
 ## Toon Blast Clone
 
-[![Toon Blast Clone](https://github.com/emredarak/portfolio/raw/main/toonblast.png)](https://youtu.be/ObIRCUSYnzY)
+<a href="https://youtu.be/ObIRCUSYnzY">
+  <img src="https://github.com/emredarak/portfolio/raw/main/toonblast.png" width="140" height="140">
+</a>
 
 ###
 
+## Zula Mobile
+
   <a href="https://www.youtube.com/watch?v=e2bWu6IFezo" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/zulamobile.png" width="140" height="140">Zula Mobile</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/zulamobile.png" width="140" height="140"></>
 </a>
 
 ### 
 
+## Nerf Sandman
+
   <a href="https://youtu.be/QSu2R6nEmKM" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/nerfsandman.png"  width="140" height="140">Nerf Sandman</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/nerfsandman.png"  width="140" height="140"></>
 </a>
 
 ###
+
+ ## Chess Slide
  
   <a href="https://youtu.be/uiSxMycJnpg" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/chess.png"  width="140" height="140">Chess Slide</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/chess.png"  width="140" height="140"></>
 </a>
 
 ###
+
+ ## Street Graffiti
  
   <a href="https://youtu.be/CsnPM58HAgw" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/graffiti.png"  width="140" height="140">Street Graffiti</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/graffiti.png"  width="140" height="140"></>
 </a>
 
 ###
+
+## Climb Dude
 
   <a href="https://youtu.be/mc3iwm3aEoc" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/climb.png"  width="140" height="140">Climb Dude</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/climb.png"  width="140" height="140"></>
 </a>
 
 ###
+
+## Treasure Dig
 
   <a href="https://youtube.com/shorts/2zSk0tWJG9A?feature=share" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/treasure.png"  width="140" height="140">Treasure Dig</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/treasure.png"  width="140" height="140"></>
 </a>
 
 ###
 
+## Plane Shooter
+
  <a href="https://youtu.be/sXh6Y7B8uUc" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/planeshooter.png"  width="140" height="140">Plane Shooter</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/planeshooter.png"  width="140" height="140"></>
 </a> 
 
 ###
 
+## Fubo Runner
+
   <a href="https://www.youtube.com/watch?v=X0u331-OZpU" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/fubo-runner-icon.png"  width="140" height="140">Fubo Runner</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/fubo-runner-icon.png"  width="140" height="140"></>
 </a>
 
 ###
+
+## Party Monsterzz
 
   <a href="https://www.youtube.com/watch?v=hzOuM7U6cU4" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/party-monsterzz.jpg" width="140" height="140">Party Monsterzz</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/party-monsterzz.jpg" width="140" height="140"></>
 </a>
 
 ###
 
+## Hit and Boom
+
 <a href="https://www.youtube.com/watch?v=bRMB-WTsi8E&t=9s" target="_blank">
-  <img src="https://github.com/emredarak/portfolio/raw/main/hit-and-boom.png"  width="140" height="140">Hit and Boom</>
+  <img src="https://github.com/emredarak/portfolio/raw/main/hit-and-boom.png"  width="140" height="140"></>
 </a>
 
 ###
