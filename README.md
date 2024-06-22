@@ -74,61 +74,67 @@
 
 ###
 
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/ObIRCUSYnzY" target="_blank">
+  <img src="https://github.com/emredarak/portfolio/raw/main/toonblast.png" width="140" height="140">Toon Blast Clone</>
+</a>
+
+###
+
+  <a href="https://www.youtube.com/watch?v=e2bWu6IFezo" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/zulamobile.png" width="140" height="140">Zula Mobile</>
 </a>
 
 ### 
 
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/QSu2R6nEmKM" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/nerfsandman.png"  width="140" height="140">Nerf Sandman</>
 </a>
 
 ###
  
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/uiSxMycJnpg" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/chess.png"  width="140" height="140">Chess Slide</>
 </a>
 
 ###
  
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/CsnPM58HAgw" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/graffiti.png"  width="140" height="140">Street Graffiti</>
 </a>
 
 ###
 
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/mc3iwm3aEoc" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/climb.png"  width="140" height="140">Climb Dude</>
 </a>
 
 ###
 
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://youtube.com/shorts/2zSk0tWJG9A?feature=share" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/treasure.png"  width="140" height="140">Treasure Dig</>
 </a>
 
 ###
 
- <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+ <a href="https://youtu.be/sXh6Y7B8uUc" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/planeshooter.png"  width="140" height="140">Plane Shooter</>
 </a> 
 
 ###
 
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://www.youtube.com/watch?v=X0u331-OZpU" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/fubo-runner-icon.png"  width="140" height="140">Fubo Runner</>
 </a>
 
 ###
 
-  <a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <a href="https://www.youtube.com/watch?v=hzOuM7U6cU4" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/party-monsterzz.jpg" width="140" height="140">Party Monsterzz</>
 </a>
 
 ###
 
-<a href="http://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+<a href="https://www.youtube.com/watch?v=bRMB-WTsi8E&t=9s" target="_blank">
   <img src="https://github.com/emredarak/portfolio/raw/main/hit-and-boom.png"  width="140" height="140">Hit and Boom</>
 </a>
 
