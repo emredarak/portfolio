@@ -78,14 +78,6 @@
 
 ###
 
-## Toon Blast Clone
-
-<a href="https://youtu.be/ObIRCUSYnzY">
-  <img src="https://github.com/emredarak/portfolio/raw/main/toonblast.png" width="140" height="140">
-</a>
-
-###
-
 ## Zula Mobile
 
   <a href="https://www.youtube.com/watch?v=e2bWu6IFezo" target="_blank">
@@ -93,6 +85,14 @@
 </a>
 
 ### 
+
+## Toon Blast Clone
+
+<a href="https://youtu.be/ObIRCUSYnzY">
+  <img src="https://github.com/emredarak/portfolio/raw/main/toonblast.png" width="140" height="140">
+</a>
+
+###
 
 ## Nerf Sandman
 
